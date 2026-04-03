@@ -22,16 +22,6 @@ Building secure, scalable infrastructure at the intersection of cloud engineerin
 
 ---
 
-## 📌 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [aws-hipaa-terraform](https://github.com/fiazmushfeq/aws-hipaa-terraform) | HIPAA-compliant AWS architecture with Terraform — VPC, IAM, encryption, audit logging | `Terraform` `AWS` `IaC` |
-| [oidc-cicd-pipeline](https://github.com/fiazmushfeq/oidc-cicd-pipeline) | Keyless AWS deployments via OIDC — no long-lived credentials in CI | `GitHub Actions` `OIDC` `AWS` |
-| [lambda-migration-kit](https://github.com/fiazmushfeq/lambda-migration-kit) | Patterns for migrating workloads from EC2 to Lambda with zero downtime | `AWS Lambda` `Python` `Terraform` |
-
----
-
 ## 📜 Certifications
 
 - **CompTIA Security+**
