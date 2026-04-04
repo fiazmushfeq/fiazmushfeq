@@ -27,7 +27,7 @@ Building secure, scalable infrastructure at the intersection of cloud engineerin
 - **CompTIA Security+**
 - **AWS Cloud Practitioner**
 - **SAFe DevOps Practitioner**
-- **UT Austin Post-Graduate Certificate in Cybersecurity** *(Straight A's)*
+- **UT Austin Post Graduate Certificate in Cybersecurity** *(Straight A's)*
 
 ---
 
