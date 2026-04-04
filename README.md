@@ -31,14 +31,6 @@ Building secure, scalable infrastructure at the intersection of cloud engineerin
 
 ---
 
-## 📈 Currently
-
-- 🔭 Deepening expertise in cloud security posture management (CSPM) and AWS threat detection (GuardDuty, Sentinel)
-- 🎯 Targeting **DevSecOps Engineer** and **Cloud Security Engineer** roles in the NJ/NYC metro
-- 🎓 Pursuing a graduate degree in Cybersecurity
-
----
-
 <p align="left">
   <a href="https://www.linkedin.com/in/fiazmushfeq"><img src="https://img.shields.io/badge/LinkedIn-fiazmushfeq-0A66C2?style=flat&logo=linkedin" /></a>
   <a href="https://www.credly.com/users/fiaz-mushfeq"><img src="https://img.shields.io/badge/Credly-Certifications-FF6B00?style=flat&logo=credly" /></a>
