@@ -84,13 +84,6 @@ Cross-platform personal finance app supporting macOS, iOS, Android, and web. Bac
 
 ---
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=fiazmushfeq&show_icons=true&theme=dark&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiazmushfeq&layout=compact&theme=dark&hide_border=true" height="150"/>
-</p>
-
----
-
 <p align="center">
   <i>Open to DevSecOps, Cloud Infrastructure, Platform Engineering, and SRE roles in the NJ/NYC metro area.</i>
 </p>
